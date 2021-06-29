@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Ming Zhou
 
-You can use the [editor on GitHub](https://github.com/asjqmasjqm/asjqmasjqm.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+![image](https://user-images.githubusercontent.com/17588130/123748841-52047180-d8e7-11eb-9322-d97d8d74b5c6.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+PhD Candidate @ Tsinghua 
 
-### Markdown
+### 知乎主页 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+https://www.zhihu.com/people/ji-qi-57-7-37
 
-```markdown
-Syntax highlighted code block
+### 个人简介
 
-# Header 1
-## Header 2
-### Header 3
+硕士毕业后曾在百度AIG从事语音识别算法和系统开发，开发的产品为『小度智能音箱』并广受用户喜爱。后又在腾讯PCG从事推荐算法和系统开发，负责大数据挖掘和展示、ABTest和用户画像建设，拥有多年互联网算法和系统架构设计和开发经验。于2019年加入KEG师从唐杰教授攻读博士学位，从事机器学习、社交网络和知识图谱相关的研究工作，研发的[twitter机器人检测服务](https://zhuanlan.zhihu.com/p/109207986),
+目前Google和Baidu搜索均排名第一。
 
-- Bulleted
-- List
+### 研究方向
 
-1. Numbered
-2. List
+推荐系统、机器学习、多媒体通信、数据挖掘
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/asjqmasjqm/asjqmasjqm.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
