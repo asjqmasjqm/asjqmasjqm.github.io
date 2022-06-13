@@ -19,5 +19,7 @@ Zhouming received the M.S. degree in Communication and Information Systems from 
 
 ### Research Interests
 
-推荐系统、机器学习、多媒体通信、数据挖掘
+Machine Learning, Data Mining and Social Sciences
+
+<!-- 推荐系统、机器学习、多媒体通信、数据挖掘 -->
 
