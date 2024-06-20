@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me: Ming Zhou (周明)
 
-I am currently a Ph.D. student of the [Knowledge Engineering Group](https://keg.cs.tsinghua.edu.cn/), Department of Computer Science and Technology, Tsinghua University. Before joining Tsinghua, I was a researcher at Baidu and Tencent.
+I am currently a Ph.D. student of the [Knowledge Engineering Group](https://keg.cs.tsinghua.edu.cn/), Department of Computer Science and Technology in Tsinghua University, Beijing, China. Before joining Tsinghua, I was a researcher at Baidu and Tencent. My major research interests are in social networks, large language model, and graph representation learning.
 
 ## Research Interests
 
