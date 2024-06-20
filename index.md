@@ -11,6 +11,7 @@ My research focuses on social & information networks, data mining, language mode
 
 ## News
 
+- **[Oct. 2023]** Ming Zhou serves as [the chair of Session 5A](https://uobevents.eventsair.com/cikm2023/programme---tuesday-24th-october).
 - **[Sep. 2023]** Our paper "Semi-Supervised Social Bot Detection with Initial Residual Relation Attention Networks" has received **<font color=red>the best student paper award</font>** at *Joint European Conference on Machine Learning and Knowledge Discovery in Databases (ECML-PKDD 2023)*.
 - **[Aug. 2023]** Our paper "Detecting Social  Bot on the Fly using  Contrastive  Learning" has been accepted for presentation at *Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (CIKM 2023)*.
 - **[Jun. 2023]** Our paper "Semi-Supervised Social Bot Detection with Initial Residual Relation Attention Networks" has been accepted for presentation at *Joint European Conference on Machine Learning and Knowledge Discovery in Databases (ECML-PKDD 2023)*.
