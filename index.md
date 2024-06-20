@@ -11,7 +11,7 @@ My research focuses on social & information networks, data mining, language mode
 
 ## News
 
-- **[Sep. 2023]** Our paper "Semi-Supervised Social Bot Detection with Initial Residual Relation Attention Networks" has received <font color=red>**the best student paper award**</font> in ECML-PKDD 2023.
+- **[Sep. 2023]** Our paper "Semi-Supervised Social Bot Detection with Initial Residual Relation Attention Networks" has received **<font color=red>the best student paper award</font>** in ECML-PKDD 2023.
 
 
 {% include_relative _includes/publications.md %}
