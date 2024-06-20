@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me: Ming Zhou (周明)
 
-I am a Ph.D. student at ...
+I am currently a Ph.D. student of the [Knowledge Engineering Group](https://keg.cs.tsinghua.edu.cn/), Department of Computer Science and Technology, Tsinghua University. Before joining Tsinghua, I was a researcher at Baidu and Tencent.
 
 ## Research Interests
 
