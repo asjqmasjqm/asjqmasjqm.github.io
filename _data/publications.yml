@@ -1,7 +1,7 @@
 main:
   - title: Detecting Social Bot on the Fly using Contrastive Learning
     authors: <strong>Ming Zhou</strong>, Dan Zhang, Yuandong Wang, Yangli-Ao Geng, and Jie Tang* (*Corresponding authors)
-    conference_short: CIKM 2023
+    conference_short: CIKM
     conference: Proceedings of the 32nd ACM International Conference on Information and Knowledge Management <strong>(CIKM)</strong>, 2023.
     pdf: https://dl.acm.org/doi/abs/10.1145/3583780.3615468
     code: https://dl.acm.org/doi/abs/10.1145/3583780.3615468
