@@ -8,10 +8,6 @@ I am currently a Ph.D. student of the [Knowledge Engineering Group](https://keg.
 
 My research focuses on social & information networks, data mining, language models, and graph representation learning.
 
-## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
 
 ## News
 
