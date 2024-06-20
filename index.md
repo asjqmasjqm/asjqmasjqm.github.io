@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## About Me
+## About Me: Ming Zhou（周明）
 
 I am a Ph.D. student at ...
 
