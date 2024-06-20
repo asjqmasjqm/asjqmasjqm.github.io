@@ -1,14 +1,13 @@
 main:
-
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
+  - title: Detecting Social Bot on the Fly using Contrastive Learning
+    authors: <strong>Ming Zhou</strong>, Dan Zhang, Yuandong Wang, Yangli-Ao Geng, and Jie Tang* (*Corresponding authors)
+    conference_short: CIKM 2023
+    conference: Proceedings of the 32nd ACM International Conference on Information and Knowledge Management <strong>(CIKM)</strong>, 2023.
+    pdf: https://dl.acm.org/doi/abs/10.1145/3583780.3615468
+    code: https://dl.acm.org/doi/abs/10.1145/3583780.3615468
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:j7LlcEgti3QJ:scholar.google.com/&output=citation&scisdr=ClHp0P_zEOmi88dDM3E:AFWwaeYAAAAAZnRFK3G-M5pUbcDV1h9AKaaEIG4&scisig=AFWwaeYAAAAAZnRFK3RSN0bqbJBE73aN-RY9zy8&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+    notes: Oral Presentation
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
@@ -20,3 +19,5 @@ main:
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Oral Presentation
     image: ./assets/img/teaser_example.png
+
+    
