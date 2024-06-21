@@ -15,7 +15,7 @@ main:
     conference: Joint European Conference on Machine Learning and Knowledge Discovery in Databases <strong>(ECML-PKDD)</strong>. Cham: Springer Nature Switzerland, 2023.
     pdf: https://keg.cs.tsinghua.edu.cn/jietang/publications/PKDD23-Zhou-et-al-social-bot.pdf
     code: https://keg.cs.tsinghua.edu.cn/jietang/publications/PKDD23-Zhou-et-al-social-bot.pdf
-    page: https://keg.cs.tsinghua.edu.cn/jietang/publications/PKDD23-Zhou-et-al-social-bot.pdf
+    # page: https://keg.cs.tsinghua.edu.cn/jietang/publications/PKDD23-Zhou-et-al-social-bot.pdf
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:BVgghE2fmx0J:scholar.google.com/&output=citation&scisdr=ClHXHkhWEOmi88YH__M:AFWwaeYAAAAAZnUB5_P4ORiK21ux_Bk81qqqtK8&scisig=AFWwaeYAAAAAZnUB5_3nyqelolpPwQAEuXQ_SQc&scisf=4&ct=citation&cd=-1&hl=en
     notes: Oral Presentation
     image: ./assets/img/SIRAN_V8.pdf
