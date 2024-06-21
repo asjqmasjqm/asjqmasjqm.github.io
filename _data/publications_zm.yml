@@ -9,7 +9,7 @@ main:
     image: ./assets/img/overview_frameworkV7.png
     notes: Oral Presentation
     
-  - title: Semi-Supervised Social Bot Detection with Initial Residual Relation Attention Networks
+  - title: "Semi-Supervised Social Bot Detection with Initial Residual Relation Attention Networks"
     authors: <strong>Ming Zhou</strong>, Wenzheng Feng, Yifan Zhu, Dan Zhang, Yuxiao Dong, and Jie Tang* (*Corresponding authors)
     conference_short: ECML-PKDD
     conference: Joint European Conference on Machine Learning and Knowledge Discovery in Databases <strong>(ECML-PKDD)</strong>. Cham: Springer Nature Switzerland, 2023.
