@@ -1,54 +1,64 @@
-# main:
-#   - title: Detecting Social Bot on the Fly using Contrastive Learning
-#     authors: <strong>Ming Zhou</strong>, Dan Zhang, Yuandong Wang, Yangli-Ao Geng, and Jie Tang* (*Corresponding authors)
-#     conference_short: CIKM
-#     conference: Proceedings of the 32nd ACM International Conference on Information and Knowledge Management <strong>(CIKM)</strong>, 2023.
-#     pdf: https://dl.acm.org/doi/abs/10.1145/3583780.3615468
-#     code: https://dl.acm.org/doi/abs/10.1145/3583780.3615468
-#     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:j7LlcEgti3QJ:scholar.google.com/&output=citation&scisdr=ClHp0P_zEOmi88dDM3E:AFWwaeYAAAAAZnRFK3G-M5pUbcDV1h9AKaaEIG4&scisig=AFWwaeYAAAAAZnRFK3RSN0bqbJBE73aN-RY9zy8&scisf=4&ct=citation&cd=-1&hl=en
-#     image: ./assets/img/overview_frameworkV7.png
-#     notes: Oral Presentation
+main:
+  - title: Detecting Social Bot on the Fly using Contrastive Learning
+    authors: <strong>Ming Zhou</strong>, Dan Zhang, Yuandong Wang, Yangli-Ao Geng, and Jie Tang* (*Corresponding authors)
+    conference_short: CIKM
+    conference: Proceedings of the 32nd ACM International Conference on Information and Knowledge Management <strong>(CIKM)</strong>, 2023.
+    pdf: https://dl.acm.org/doi/abs/10.1145/3583780.3615468
+    code: https://dl.acm.org/doi/abs/10.1145/3583780.3615468
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:j7LlcEgti3QJ:scholar.google.com/&output=citation&scisdr=ClHp0P_zEOmi88dDM3E:AFWwaeYAAAAAZnRFK3G-M5pUbcDV1h9AKaaEIG4&scisig=AFWwaeYAAAAAZnRFK3RSN0bqbJBE73aN-RY9zy8&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./assets/img/overview_frameworkV7.png
+    notes: Oral Presentation
+
+  - title: Detecting Social Bot on the Fly using Contrastive Learning
+    authors: <strong>Ming Zhou</strong>, Dan Zhang, Yuandong Wang, Yangli-Ao Geng, and Jie Tang* (*Corresponding authors)
+    conference_short: CIKM
+    conference: Proceedings of the 32nd ACM International Conference on Information and Knowledge Management <strong>(CIKM)</strong>, 2023.
+    pdf: https://dl.acm.org/doi/abs/10.1145/3583780.3615468
+    code: https://dl.acm.org/doi/abs/10.1145/3583780.3615468
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:j7LlcEgti3QJ:scholar.google.com/&output=citation&scisdr=ClHp0P_zEOmi88dDM3E:AFWwaeYAAAAAZnRFK3G-M5pUbcDV1h9AKaaEIG4&scisig=AFWwaeYAAAAAZnRFK3RSN0bqbJBE73aN-RY9zy8&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./assets/img/overview_frameworkV7.png
+    notes: Oral Presentation
     
-#   - title: Semi-Supervised Social Bot Detection with Initial Residual Relation Attention Networks
-#     authors: <strong>Ming Zhou</strong>, Wenzheng Feng, Yifan Zhu, Dan Zhang, Yuxiao Dong, and Jie Tang* (*Corresponding authors)
-#     conference_short: ECML-PKDD
-#     conference: Joint European Conference on Machine Learning and Knowledge Discovery in Databases <strong>(ECML-PKDD)</strong>. Cham: Springer Nature Switzerland, 2023.
-#     pdf: https://keg.cs.tsinghua.edu.cn/jietang/publications/PKDD23-Zhou-et-al-social-bot.pdf
-#     code: https://keg.cs.tsinghua.edu.cn/jietang/publications/PKDD23-Zhou-et-al-social-bot.pdf
-#     page: https://keg.cs.tsinghua.edu.cn/jietang/publications/PKDD23-Zhou-et-al-social-bot.pdf
-#     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:BVgghE2fmx0J:scholar.google.com/&output=citation&scisdr=ClHXHkhWEOmi88YH__M:AFWwaeYAAAAAZnUB5_P4ORiK21ux_Bk81qqqtK8&scisig=AFWwaeYAAAAAZnUB5_3nyqelolpPwQAEuXQ_SQc&scisf=4&ct=citation&cd=-1&hl=en
-#     image: ./assets/img/SIRAN_V8.png
-#     notes: Oral Presentation
+  - title: Semi-Supervised Social Bot Detection with Initial Residual Relation Attention Networks
+    authors: <strong>Ming Zhou</strong>, Wenzheng Feng, Yifan Zhu, Dan Zhang, Yuxiao Dong, and Jie Tang* (*Corresponding authors)
+    conference_short: ECML-PKDD
+    conference: Joint European Conference on Machine Learning and Knowledge Discovery in Databases <strong>(ECML-PKDD)</strong>. Cham: Springer Nature Switzerland, 2023.
+    pdf: https://keg.cs.tsinghua.edu.cn/jietang/publications/PKDD23-Zhou-et-al-social-bot.pdf
+    code: https://keg.cs.tsinghua.edu.cn/jietang/publications/PKDD23-Zhou-et-al-social-bot.pdf
+    page: https://keg.cs.tsinghua.edu.cn/jietang/publications/PKDD23-Zhou-et-al-social-bot.pdf
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:BVgghE2fmx0J:scholar.google.com/&output=citation&scisdr=ClHXHkhWEOmi88YH__M:AFWwaeYAAAAAZnUB5_P4ORiK21ux_Bk81qqqtK8&scisig=AFWwaeYAAAAAZnUB5_3nyqelolpPwQAEuXQ_SQc&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./assets/img/SIRAN_V8.png
+    notes: Oral Presentation
     
-#   - title: LGB: Language Model and Graph Neural Network-Driven Social Bot Detection
-#     authors: <strong>Ming Zhou</strong>, Dan Zhang, Yuandong Wang, Yangli-ao Geng, Yuxiao Dong, and Jie Tang* (*Corresponding authors)
-#     conference_short: arXiv
-#     conference: arXiv preprint arXiv:2406.08762 (2024).
-#     pdf: https://arxiv.org/pdf/2406.08762
-#     code: https://arxiv.org/pdf/2406.08762
-#     page: https://arxiv.org/abs/2406.08762
-#     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:UxF_WRQohXcJ:scholar.google.com/&output=citation&scisdr=ClHXHkhWEOmi88YChfI:AFWwaeYAAAAAZnUEnfKYJhKJmF_weyjeqXJ3IqA&scisig=AFWwaeYAAAAAZnUEndcZRWcqs8fhRKHM3vVhbS4&scisf=4&ct=citation&cd=-1&hl=en
-#     notes: Oral Presentation
-#     image: ./assets/img/model_show_v2.pdf
+  - title: LGB: Language Model and Graph Neural Network-Driven Social Bot Detection
+    authors: <strong>Ming Zhou</strong>, Dan Zhang, Yuandong Wang, Yangli-ao Geng, Yuxiao Dong, and Jie Tang* (*Corresponding authors)
+    conference_short: arXiv
+    conference: arXiv preprint arXiv:2406.08762 (2024).
+    pdf: https://arxiv.org/pdf/2406.08762
+    code: https://arxiv.org/pdf/2406.08762
+    page: https://arxiv.org/abs/2406.08762
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:UxF_WRQohXcJ:scholar.google.com/&output=citation&scisdr=ClHXHkhWEOmi88YChfI:AFWwaeYAAAAAZnUEnfKYJhKJmF_weyjeqXJ3IqA&scisig=AFWwaeYAAAAAZnUEndcZRWcqs8fhRKHM3vVhbS4&scisf=4&ct=citation&cd=-1&hl=en
+    notes: Oral Presentation
+    image: ./assets/img/model_show_v2.pdf
     
-#   - title: QoS-aware forward error correction cooperating with opportunistic routing in wireless multi-hop networks
-#     authors: <strong>Ming Zhou*</strong>, and Chanyuan Jin. (*Corresponding authors)
-#     conference_short: Wireless Personal Communications
-#     conference: Wireless Personal Communications 92 (2017): 1407-1422.
-#     pdf: https://link.springer.com/article/10.1007/s11277-016-3612-2
-#     code: https://link.springer.com/article/10.1007/s11277-016-3612-2
-#     page: https://link.springer.com/article/10.1007/s11277-016-3612-2
-#     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:iES_cXa13PcJ:scholar.google.com/&output=citation&scisdr=ClHXHkhWEOmi88YBd9o:AFWwaeYAAAAAZnUHb9ptgpehtNyRKNr6TDIKSL0&scisig=AFWwaeYAAAAAZnUHbwklUP3TisWM_ruD1UswSfk&scisf=4&ct=citation&cd=-1&hl=en
-#     notes: Oral Presentation
-#     image: ./assets/img/wps.png
+  - title: QoS-aware forward error correction cooperating with opportunistic routing in wireless multi-hop networks
+    authors: <strong>Ming Zhou*</strong>, and Chanyuan Jin. (*Corresponding authors)
+    conference_short: Wireless Personal Communications
+    conference: Wireless Personal Communications 92 (2017): 1407-1422.
+    pdf: https://link.springer.com/article/10.1007/s11277-016-3612-2
+    code: https://link.springer.com/article/10.1007/s11277-016-3612-2
+    page: https://link.springer.com/article/10.1007/s11277-016-3612-2
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:iES_cXa13PcJ:scholar.google.com/&output=citation&scisdr=ClHXHkhWEOmi88YBd9o:AFWwaeYAAAAAZnUHb9ptgpehtNyRKNr6TDIKSL0&scisig=AFWwaeYAAAAAZnUHbwklUP3TisWM_ruD1UswSfk&scisf=4&ct=citation&cd=-1&hl=en
+    notes: Oral Presentation
+    image: ./assets/img/wps.png
     
-#   - title: Adaptive anti-interference encoding strategy based on IMS
-#     authors: <strong>Ming Zhou*</strong>, and Chunyue Zhou. (*Corresponding authors)
-#     conference_short: NSCE
-#     conference: Network Security and Communication Engineering: Proceedings of the 2014 International Conference on Network Security and Communication Engineering
-#     pdf: https://www.taylorfrancis.com/chapters/edit/10.1201/b18660-97/adaptive-anti-interference-encoding-strategy-based-ims-zhou-zhou
-#     code: https://www.taylorfrancis.com/chapters/edit/10.1201/b18660-97/adaptive-anti-interference-encoding-strategy-based-ims-zhou-zhou
-#     page: https://www.taylorfrancis.com/chapters/edit/10.1201/b18660-97/adaptive-anti-interference-encoding-strategy-based-ims-zhou-zhou
-#     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:PkypTWh2SB4J:scholar.google.com/&output=citation&scisdr=ClHXHkhWEOmi88YPhxM:AFWwaeYAAAAAZnUJnxOgc5D7YChUz4IpRjze0bg&scisig=AFWwaeYAAAAAZnUJn-uyO8amq5jLrWCDvHP79p4&scisf=4&ct=citation&cd=-1&hl=en
-#     notes: Oral Presentation
-#     image: ./assets/img/wps.png
+  - title: Adaptive anti-interference encoding strategy based on IMS
+    authors: <strong>Ming Zhou*</strong>, and Chunyue Zhou. (*Corresponding authors)
+    conference_short: NSCE
+    conference: Network Security and Communication Engineering: Proceedings of the 2014 International Conference on Network Security and Communication Engineering
+    pdf: https://www.taylorfrancis.com/chapters/edit/10.1201/b18660-97/adaptive-anti-interference-encoding-strategy-based-ims-zhou-zhou
+    code: https://www.taylorfrancis.com/chapters/edit/10.1201/b18660-97/adaptive-anti-interference-encoding-strategy-based-ims-zhou-zhou
+    page: https://www.taylorfrancis.com/chapters/edit/10.1201/b18660-97/adaptive-anti-interference-encoding-strategy-based-ims-zhou-zhou
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:PkypTWh2SB4J:scholar.google.com/&output=citation&scisdr=ClHXHkhWEOmi88YPhxM:AFWwaeYAAAAAZnUJnxOgc5D7YChUz4IpRjze0bg&scisig=AFWwaeYAAAAAZnUJn-uyO8amq5jLrWCDvHP79p4&scisf=4&ct=citation&cd=-1&hl=en
+    notes: Oral Presentation
+    image: ./assets/img/wps.png
