@@ -31,4 +31,15 @@ main:
     notes: Oral Presentation
     image: ./assets/img/model_show_v2.pdf
 
+  - title: QoS-aware forward error correction cooperating with opportunistic routing in wireless multi-hop networks
+    authors: <strong>Ming Zhou*</strong>, and Chanyuan Jin. (*Corresponding authors)
+    conference_short: Wireless Personal Communications
+    conference: Wireless Personal Communications 92 (2017): 1407-1422.
+    pdf: https://link.springer.com/article/10.1007/s11277-016-3612-2
+    code: https://link.springer.com/article/10.1007/s11277-016-3612-2
+    page: https://link.springer.com/article/10.1007/s11277-016-3612-2
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:iES_cXa13PcJ:scholar.google.com/&output=citation&scisdr=ClHXHkhWEOmi88YBd9o:AFWwaeYAAAAAZnUHb9ptgpehtNyRKNr6TDIKSL0&scisig=AFWwaeYAAAAAZnUHbwklUP3TisWM_ruD1UswSfk&scisf=4&ct=citation&cd=-1&hl=en
+    notes: Oral Presentation
+    image: ./assets/img/model_show_v2.pdf
+
     
