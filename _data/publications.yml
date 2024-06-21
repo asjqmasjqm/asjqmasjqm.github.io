@@ -6,7 +6,7 @@ main:
     pdf: https://dl.acm.org/doi/abs/10.1145/3583780.3615468
     code: https://dl.acm.org/doi/abs/10.1145/3583780.3615468
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:j7LlcEgti3QJ:scholar.google.com/&output=citation&scisdr=ClHp0P_zEOmi88dDM3E:AFWwaeYAAAAAZnRFK3G-M5pUbcDV1h9AKaaEIG4&scisig=AFWwaeYAAAAAZnRFK3RSN0bqbJBE73aN-RY9zy8&scisf=4&ct=citation&cd=-1&hl=en
-    image: ./assets/img/overview_frameworkV7.pdf
+    image: ./assets/img/overview_frameworkV7.png
     notes: Oral Presentation
 
   - title: Semi-Supervised Social Bot Detection with Initial Residual Relation Attention Networks
