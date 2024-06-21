@@ -17,8 +17,9 @@ main:
     code: https://keg.cs.tsinghua.edu.cn/jietang/publications/PKDD23-Zhou-et-al-social-bot.pdf
     # page: https://keg.cs.tsinghua.edu.cn/jietang/publications/PKDD23-Zhou-et-al-social-bot.pdf
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:BVgghE2fmx0J:scholar.google.com/&output=citation&scisdr=ClHXHkhWEOmi88YH__M:AFWwaeYAAAAAZnUB5_P4ORiK21ux_Bk81qqqtK8&scisig=AFWwaeYAAAAAZnUB5_3nyqelolpPwQAEuXQ_SQc&scisf=4&ct=citation&cd=-1&hl=en
-    notes: Oral Presentation
     image: ./assets/img/SIRAN_V8.pdf
+    notes: Oral Presentation
+    
 
   - title: LGB: Language Model and Graph Neural Network-Driven Social Bot Detection
     authors: <strong>Ming Zhou</strong>, Dan Zhang, Yuandong Wang, Yangli-ao Geng, Yuxiao Dong, and Jie Tang* (*Corresponding authors)
