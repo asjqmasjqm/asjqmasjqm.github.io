@@ -8,7 +8,6 @@ main:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:j7LlcEgti3QJ:scholar.google.com/&output=citation&scisdr=ClHp0P_zEOmi88dDM3E:AFWwaeYAAAAAZnRFK3G-M5pUbcDV1h9AKaaEIG4&scisig=AFWwaeYAAAAAZnRFK3RSN0bqbJBE73aN-RY9zy8&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/overview_frameworkV7.png
     notes: Oral Presentation
-
   - title: Semi-Supervised Social Bot Detection with Initial Residual Relation Attention Networks
     authors: <strong>Ming Zhou</strong>, Wenzheng Feng, Yifan Zhu, Dan Zhang, Yuxiao Dong, and Jie Tang* (*Corresponding authors)
     conference_short: ECML-PKDD
@@ -19,8 +18,6 @@ main:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:BVgghE2fmx0J:scholar.google.com/&output=citation&scisdr=ClHXHkhWEOmi88YH__M:AFWwaeYAAAAAZnUB5_P4ORiK21ux_Bk81qqqtK8&scisig=AFWwaeYAAAAAZnUB5_3nyqelolpPwQAEuXQ_SQc&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/SIRAN_V8.png
     notes: Oral Presentation
-    
-
   - title: LGB: Language Model and Graph Neural Network-Driven Social Bot Detection
     authors: <strong>Ming Zhou</strong>, Dan Zhang, Yuandong Wang, Yangli-ao Geng, Yuxiao Dong, and Jie Tang* (*Corresponding authors)
     conference_short: arXiv
@@ -31,7 +28,6 @@ main:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:UxF_WRQohXcJ:scholar.google.com/&output=citation&scisdr=ClHXHkhWEOmi88YChfI:AFWwaeYAAAAAZnUEnfKYJhKJmF_weyjeqXJ3IqA&scisig=AFWwaeYAAAAAZnUEndcZRWcqs8fhRKHM3vVhbS4&scisf=4&ct=citation&cd=-1&hl=en
     notes: Oral Presentation
     image: ./assets/img/model_show_v2.pdf
-
   - title: QoS-aware forward error correction cooperating with opportunistic routing in wireless multi-hop networks
     authors: <strong>Ming Zhou*</strong>, and Chanyuan Jin. (*Corresponding authors)
     conference_short: Wireless Personal Communications
@@ -42,7 +38,6 @@ main:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:iES_cXa13PcJ:scholar.google.com/&output=citation&scisdr=ClHXHkhWEOmi88YBd9o:AFWwaeYAAAAAZnUHb9ptgpehtNyRKNr6TDIKSL0&scisig=AFWwaeYAAAAAZnUHbwklUP3TisWM_ruD1UswSfk&scisf=4&ct=citation&cd=-1&hl=en
     notes: Oral Presentation
     image: ./assets/img/wps.png
-
   - title: Adaptive anti-interference encoding strategy based on IMS
     authors: <strong>Ming Zhou*</strong>, and Chunyue Zhou. (*Corresponding authors)
     conference_short: NSCE
