@@ -8,16 +8,6 @@ main:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:j7LlcEgti3QJ:scholar.google.com/&output=citation&scisdr=ClHp0P_zEOmi88dDM3E:AFWwaeYAAAAAZnRFK3G-M5pUbcDV1h9AKaaEIG4&scisig=AFWwaeYAAAAAZnRFK3RSN0bqbJBE73aN-RY9zy8&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/overview_frameworkV7.png
     notes: Oral Presentation
-
-  - title: Detecting Social Bot on the Fly using Contrastive Learning
-    authors: <strong>Ming Zhou</strong>, Dan Zhang, Yuandong Wang, Yangli-Ao Geng, and Jie Tang* (*Corresponding authors)
-    conference_short: CIKM
-    conference: Proceedings of the 32nd ACM International Conference on Information and Knowledge Management <strong>(CIKM)</strong>, 2023.
-    pdf: https://dl.acm.org/doi/abs/10.1145/3583780.3615468
-    code: https://dl.acm.org/doi/abs/10.1145/3583780.3615468
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:j7LlcEgti3QJ:scholar.google.com/&output=citation&scisdr=ClHp0P_zEOmi88dDM3E:AFWwaeYAAAAAZnRFK3G-M5pUbcDV1h9AKaaEIG4&scisig=AFWwaeYAAAAAZnRFK3RSN0bqbJBE73aN-RY9zy8&scisf=4&ct=citation&cd=-1&hl=en
-    image: ./assets/img/overview_frameworkV7.png
-    notes: Oral Presentation
     
   - title: Semi-Supervised Social Bot Detection with Initial Residual Relation Attention Networks
     authors: <strong>Ming Zhou</strong>, Wenzheng Feng, Yifan Zhu, Dan Zhang, Yuxiao Dong, and Jie Tang* (*Corresponding authors)
@@ -25,7 +15,7 @@ main:
     conference: Joint European Conference on Machine Learning and Knowledge Discovery in Databases <strong>(ECML-PKDD)</strong>, 2023.
     pdf: https://keg.cs.tsinghua.edu.cn/jietang/publications/PKDD23-Zhou-et-al-social-bot.pdf
     code: https://keg.cs.tsinghua.edu.cn/jietang/publications/PKDD23-Zhou-et-al-social-bot.pdf
-    page: https://keg.cs.tsinghua.edu.cn/jietang/publications/PKDD23-Zhou-et-al-social-bot.pdf
+    page: https://botdetection.aminer.cn/robotmain
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:BVgghE2fmx0J:scholar.google.com/&output=citation&scisdr=ClHXHkhWEOmi88YH__M:AFWwaeYAAAAAZnUB5_P4ORiK21ux_Bk81qqqtK8&scisig=AFWwaeYAAAAAZnUB5_3nyqelolpPwQAEuXQ_SQc&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/SIRAN_V8.png
     notes: Oral Presentation
