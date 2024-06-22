@@ -55,11 +55,11 @@ main:
 
   - title: Research on the Railway Multimedia Dispatching Technology based on IMS
     authors: Chunyue Zhou*, and <strong>Ming Zhou</strong>, Hongting Zhang, Hongzheng Shan (*Corresponding authors)
-    conference_short: WCEE
+    # conference_short: WCEE
     conference: World Conference on Control, Electronics and Electrical Engineering
     pdf: 
     code: 
     page: 
     bibtex: 
     notes: 
-    image: 
+    # image: 
