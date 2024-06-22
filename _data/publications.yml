@@ -22,7 +22,7 @@ main:
   - title: Semi-Supervised Social Bot Detection with Initial Residual Relation Attention Networks
     authors: <strong>Ming Zhou</strong>, Wenzheng Feng, Yifan Zhu, Dan Zhang, Yuxiao Dong, and Jie Tang* (*Corresponding authors)
     conference_short: ECML-PKDD
-    conference: Joint European Conference on Machine Learning and Knowledge Discovery in Databases <strong>(ECMLPKDD)</strong>. Cham: Springer Nature Switzerland, 2023.
+    conference: Joint European Conference on Machine Learning and Knowledge Discovery in Databases <strong>(ECMLPKDD)</strong>, 2023.
     pdf: https://keg.cs.tsinghua.edu.cn/jietang/publications/PKDD23-Zhou-et-al-social-bot.pdf
     code: https://keg.cs.tsinghua.edu.cn/jietang/publications/PKDD23-Zhou-et-al-social-bot.pdf
     page: https://keg.cs.tsinghua.edu.cn/jietang/publications/PKDD23-Zhou-et-al-social-bot.pdf
