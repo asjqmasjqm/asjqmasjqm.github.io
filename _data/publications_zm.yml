@@ -9,16 +9,16 @@ main:
     image: ./assets/img/overview_frameworkV7.png
     notes: Oral Presentation
     
-  - title: "Semi-Supervised Social Bot Detection with Initial Residual Relation Attention Networks"
-    authors: <strong>Ming Zhou</strong>, Wenzheng Feng, Yifan Zhu, Dan Zhang, Yuxiao Dong, and Jie Tang* (*Corresponding authors)
-    conference_short: ECML-PKDD
-    conference: Joint European Conference on Machine Learning and Knowledge Discovery in Databases <strong>(ECML-PKDD)</strong>. Cham: Springer Nature Switzerland, 2023.
-    pdf: https://keg.cs.tsinghua.edu.cn/jietang/publications/PKDD23-Zhou-et-al-social-bot.pdf
-    code: https://keg.cs.tsinghua.edu.cn/jietang/publications/PKDD23-Zhou-et-al-social-bot.pdf
-    page: https://keg.cs.tsinghua.edu.cn/jietang/publications/PKDD23-Zhou-et-al-social-bot.pdf
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:BVgghE2fmx0J:scholar.google.com/&output=citation&scisdr=ClHXHkhWEOmi88YH__M:AFWwaeYAAAAAZnUB5_P4ORiK21ux_Bk81qqqtK8&scisig=AFWwaeYAAAAAZnUB5_3nyqelolpPwQAEuXQ_SQc&scisf=4&ct=citation&cd=-1&hl=en
-    image: ./assets/img/SIRAN_V8.png
-    notes: Oral Presentation
+  # - title: "Semi-Supervised Social Bot Detection with Initial Residual Relation Attention Networks"
+  #   authors: <strong>Ming Zhou</strong>, Wenzheng Feng, Yifan Zhu, Dan Zhang, Yuxiao Dong, and Jie Tang* (*Corresponding authors)
+  #   conference_short: ECML-PKDD
+  #   conference: Joint European Conference on Machine Learning and Knowledge Discovery in Databases <strong>(ECML-PKDD)</strong>. Cham: Springer Nature Switzerland, 2023.
+  #   pdf: https://keg.cs.tsinghua.edu.cn/jietang/publications/PKDD23-Zhou-et-al-social-bot.pdf
+  #   code: https://keg.cs.tsinghua.edu.cn/jietang/publications/PKDD23-Zhou-et-al-social-bot.pdf
+  #   page: https://keg.cs.tsinghua.edu.cn/jietang/publications/PKDD23-Zhou-et-al-social-bot.pdf
+  #   bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:BVgghE2fmx0J:scholar.google.com/&output=citation&scisdr=ClHXHkhWEOmi88YH__M:AFWwaeYAAAAAZnUB5_P4ORiK21ux_Bk81qqqtK8&scisig=AFWwaeYAAAAAZnUB5_3nyqelolpPwQAEuXQ_SQc&scisf=4&ct=citation&cd=-1&hl=en
+  #   image: ./assets/img/SIRAN_V8.png
+  #   notes: Oral Presentation
     
 #   - title: LGB: Language Model and Graph Neural Network-Driven Social Bot Detection
 #     authors: <strong>Ming Zhou</strong>, Dan Zhang, Yuandong Wang, Yangli-ao Geng, Yuxiao Dong, and Jie Tang* (*Corresponding authors)
