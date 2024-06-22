@@ -17,6 +17,6 @@ My research focuses on social & information networks, data mining, language mode
 - **[Jun. 2023]** Our paper "Semi-Supervised Social Bot Detection with Initial Residual Relation Attention Networks" has been accepted for presentation at *Joint European Conference on Machine Learning and Knowledge Discovery in Databases (ECML-PKDD 2023)*.
 
 
-{% include_relative _includes/publications_zm.md %}
+{% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
