@@ -1,4 +1,4 @@
-![image](https://github.com/asjqmasjqm/asjqmasjqm.github.io/assets/17588130/2a402d9c-d536-402a-ab66-0b0f41a0e684)---
+---
 layout: homepage
 ---
 
