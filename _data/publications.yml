@@ -22,8 +22,8 @@ main:
     
   - title: LGB Language Model and Graph Neural Network-Driven Social Bot Detection
     authors: <strong>Ming Zhou</strong>, Dan Zhang, Yuandong Wang, Yangli-ao Geng, Yuxiao Dong, and Jie Tang* (*Corresponding authors)
-    conference_short: arXiv
-    conference: arXiv preprint arXiv:2406.08762 (2024).
+    conference_short: TKDE
+    conference: IEEE Transactions on Knowledge and Data Engineering <strong>(TKDE)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2406.08762
     code: https://arxiv.org/pdf/2406.08762
     page: https://arxiv.org/abs/2406.08762
