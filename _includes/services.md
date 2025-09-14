@@ -1,6 +1,7 @@
 ## Professional Services
 
 <ul style="margin:0 0 20px;">
+  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858"><autocolor>Reviewer for IEEE Transactions on Dependable and Secure Computing</autocolor></a></li>
   <li><a href="https://uobevents.eventsair.com/cikm2023/programme---tuesday-24th-october"><autocolor>Session Chair at CIKM 2023</autocolor></a></li>
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361"><autocolor>Reviewer for IEEE Sensors Journal</autocolor></a></li>
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4234"><autocolor>Reviewer for IEEE Communications Letters</autocolor></a></li>
