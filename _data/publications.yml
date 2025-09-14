@@ -29,7 +29,7 @@ main:
     page: https://arxiv.org/abs/2406.08762
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:UxF_WRQohXcJ:scholar.google.com/&output=citation&scisdr=ClHXHkhWEOmi88YChfI:AFWwaeYAAAAAZnUEnfKYJhKJmF_weyjeqXJ3IqA&scisig=AFWwaeYAAAAAZnUEndcZRWcqs8fhRKHM3vVhbS4&scisf=4&ct=citation&cd=-1&hl=en
     notes: 
-    image: ./assets/img/model_show_v2.pdf
+    image: ./assets/img/model_show_v2.png
     
   - title: QoS-aware forward error correction cooperating with opportunistic routing in wireless multi-hop networks
     authors: <strong>Ming Zhou*</strong>, and Chanyuan Jin (*Corresponding authors)
